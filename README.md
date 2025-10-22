@@ -17,17 +17,17 @@ El desafío era validar que la lógica de negocio (ej. cálculos de costos, lím
 ### 2. Mi Rol y Responsabilidades
 
 * **Análisis de Requisitos:** Analicé los requisitos del backend y la documentación de la API (**Apidoc**) para entender la lógica de negocio y los parámetros de entrada/salida.
-* [cite_start]**Diseño de Pruebas de API:** Diseñé una lista de comprobación y casos de prueba (positivos y negativos) en Google Sheets para los nuevos endpoints[cite: 1, 2].
+* **Diseño de Pruebas de API:** Diseñé una lista de comprobación y casos de prueba (positivos y negativos) en Google Sheets para los nuevos endpoints.
 * **Ejecución de Pruebas (Postman):** Ejecuté las pruebas directamente en **Postman**, enviando peticiones `POST` con diferentes `bodies` (JSON) para simular escenarios reales.
 * **Análisis de Resultados:** Verifiqué que las respuestas del servidor fueran correctas, validando tanto los códigos de estado (ej. `200 OK`, `400 Bad Request`) como la lógica de negocio en el JSON de respuesta.
-* [cite_start]**Reporte de Errores:** Documenté los hallazgos críticos y redacté un informe de resultados para el equipo de desarrollo .
+* **Reporte de Errores:** Documenté los hallazgos críticos y redacté un informe de resultados para el equipo de desarrollo .
 
 ---
 
 ### 3. Evidencias y Resultados
 
 #### A. Diseño de Casos de Prueba de API
-[cite_start]Creé casos de prueba para validar escenarios como límites de productos, cálculos de costos y manejo de errores[cite: 1, 2].
+Creé casos de prueba para validar escenarios como límites de productos, cálculos de costos y manejo de errores.
 
 <img width="1678" height="960" alt="Captura de pantalla 2025-10-21 a la(s) 6 43 57 p m" src="https://github.com/user-attachments/assets/3bb37961-0714-4ce4-84b0-40de1792d64f" />
 
@@ -40,8 +40,7 @@ Validé los endpoints enviando peticiones `POST`. La siguiente imagen muestra un
 
 
 #### C. Informe de Resultados y Análisis de Impacto
-[cite_start]Durante las pruebas, descubrí fallos críticos en la lógica de cálculo de costos[cite: 4, 5]. [cite_start]Como resultado, redacté un informe formal para el equipo, explicando el impacto en el negocio (pérdidas económicas) y recomendando una revisión inmediata antes del lanzamiento[cite: 6, 7].
-<img width="1680" height="961" alt="Captura de pantalla 2025-10-21 a la(s) 7 21 25 p m" src="https://github.com/user-attachments/assets/73a462d2-f5dd-4f2a-80bd-193d72963e53" />
+Durante las pruebas, descubrí fallos críticos en la lógica de cálculo de costos. Como resultado, redacté un informe formal para el equipo, explicando el impacto en el negocio (pérdidas económicas) y recomendando una revisión inmediata antes del lanzamiento.
 
 [cite_start]*<img width="1680" height="961" alt="Captura de pantalla 2025-10-21 a la(s) 7 21 25 p m" src="https://github.com/user-attachments/assets/73a462d2-f5dd-4f2a-80bd-193d72963e53" />
 *
