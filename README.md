@@ -42,8 +42,8 @@ Validé los endpoints enviando peticiones `POST`. La siguiente imagen muestra un
 #### C. Informe de Resultados y Análisis de Impacto
 Durante las pruebas, descubrí fallos críticos en la lógica de cálculo de costos. Como resultado, redacté un informe formal para el equipo, explicando el impacto en el negocio (pérdidas económicas) y recomendando una revisión inmediata antes del lanzamiento.
 
-[cite_start]*<img width="1680" height="961" alt="Captura de pantalla 2025-10-21 a la(s) 7 21 25 p m" src="https://github.com/user-attachments/assets/73a462d2-f5dd-4f2a-80bd-193d72963e53" />
-*
+<img width="1680" height="961" alt="Captura de pantalla 2025-10-21 a la(s) 7 21 25 p m" src="https://github.com/user-attachments/assets/73a462d2-f5dd-4f2a-80bd-193d72963e53" />
+
 
 ---
 
